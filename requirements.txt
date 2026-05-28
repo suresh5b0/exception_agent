@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+openpyxl 
+ollama 
+asyncio 
+aiohttp 
+tqdm
+python-json-logger
+numpy
+requests
