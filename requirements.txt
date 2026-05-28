@@ -8,3 +8,6 @@ tqdm
 python-json-logger
 numpy
 requests
+fastapi 
+uvicorn 
+mcp
